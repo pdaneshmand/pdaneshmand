@@ -1,7 +1,7 @@
 # <samp>Pourdad Daneshmand</samp><img src="https://avatars.githubusercontent.com/u/20386160?v=4" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/pourdad-daneshmand/)](https://www.linkedin.com/in/pourdad-daneshmand/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:pourdad.daneshmand@gmail.com)](pourdad.daneshmand@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:pourdad.daneshmand@gmail.com)](mailto:pourdad.daneshmand@gmail.com)
 
 ## <samp>Hello World!</samp> <img src="https://avatars.githubusercontent.com/u/20386160?v=4" width="22px">
 
