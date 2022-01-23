@@ -5,7 +5,7 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/pdaneshmand/pdaneshmand/blob/main/37Es.gif" width="22px">
 
-<samp>I'm Pourdad Daneshmand and a Iraian citizen 🇮🇷 , currently I'm a CTO of IsDynamic <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px"> in IRAN 🇮🇷 , passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
+<samp>My name is Pourdad Daneshmand and I’m an Iraian 🇮🇷. I'm the CTO of IsDynamic  in IRAN  <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px">, passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
 <samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
