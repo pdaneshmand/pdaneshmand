@@ -16,3 +16,5 @@
 - 👨‍🎓 &nbsp; <samp>My academic life.[__here__](https://www.linkedin.com/in/pourdad-daneshmand)</samp>
 
 ---
+
+<a href="https://app.daily.dev/pourdaddaneshmand"><img src="https://api.daily.dev/devcards/eb76fb8f3f894573a0f7bdd16948c48e.png?r=6lk" width="400" alt="Pourdad Daneshmand's Dev Card"/></a>
