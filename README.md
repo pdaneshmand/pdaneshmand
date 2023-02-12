@@ -5,7 +5,8 @@
 <a href="https://rxresu.me/pourdad.daneshmand/senior-developer" target="_blank"><img src="https://img.shields.io/badge/Resume-Online-green"  alt="Pourdad Daneshmand's Resume"/></a>
 
 ## <samp>Hello World!</samp> <img src="https://github.com/pdaneshmand/pdaneshmand/blob/main/37Es.gif" width="22px">
-
+<b>Zen mind, beginner's mind</b><br/>
+<b>Shunryu Suzuki</b><br/>
 <samp>My name is Pourdad Daneshmand and I’m an Iraian 🇮🇷. I'm Co-founder and Software Engineer at IsDynamic company  in IRAN  <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px">, passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
 <samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
