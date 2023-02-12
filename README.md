@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/pourdad-daneshmand/)](https://www.linkedin.com/in/pourdad-daneshmand/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:pourdad.daneshmand@gmail.com)](mailto:pourdad.daneshmand@gmail.com)
+<a href="https://rxresu.me/pourdad.daneshmand/senior-developer" target="_blank"><img src="https://img.shields.io/badge/Resume-Online-green"  alt="Pourdad Daneshmand's Resume"/></a>
 
 ## <samp>Hello World!</samp> <img src="https://github.com/pdaneshmand/pdaneshmand/blob/main/37Es.gif" width="22px">
 
