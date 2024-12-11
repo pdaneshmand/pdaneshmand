@@ -19,4 +19,4 @@
 
 ---
 
-<a href="https://app.daily.dev/pourdaddaneshmand"><img src="https://api.daily.dev/devcards/v2/g4vKEJT7XN4DLtXPUCVi3.png?r=vv9&type=default" width="356" alt="Pourdad Daneshmand's Dev Card"/></a>
+<a href="https://app.daily.dev/pourdaddaneshmand"><img src="https://api.daily.dev/devcards/v2/g4vKEJT7XN4DLtXPUCVi3.png?type=wide&r=mt5" width="652" alt="Pourdad Daneshmand's Dev Card"/></a>
